@@ -8,3 +8,7 @@ body{
     margin: 50px auto;
     background-color: rgb(226, 219, 219);;
 }
+h1{
+    text-align: center;
+    color: white;
+}
